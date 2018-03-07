@@ -26,6 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends FragmentActivity implements ViewPager.OnPageChangeListener, TabHost.OnTabChangeListener {
+    //梵蒂冈咖啡馆
     private ViewPager vp;
     private FrameLayout tabcontent;
     private FragmentTabHost mTabHost;
